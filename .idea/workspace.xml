@@ -1,0 +1,1198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f9b6090b-628c-4810-ba2b-9f306fc4c17a" name="Default Changelist" comment="算法练习 2020年1月6日 15:08:57">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_spring_spring_context_support_1_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_ruedigermoeller_fst_2_57.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_25_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_44_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_44_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_dns_4_1_44_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_44_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_44_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_44_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_dns_4_1_44_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_44_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava2_rxjava_2_2_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_cache_cache_api_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_client_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_framework_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_recipes_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_dubbo_dubbo_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_yetus_audience_annotations_0_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_bean_5_0_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_core_5_0_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_redisson_redisson_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java学习总结/NioTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java学习总结/src/main/java/IO和NIO/NIO/BIO/BioClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java学习总结/src/main/java/IO和NIO/NIO/BIO/BioClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java学习总结/src/main/java/IO和NIO/NIO/BIO/BioServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java学习总结/src/main/java/IO和NIO/NIO/BIO/BioServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java学习总结/src/main/java/IO和NIO/NIO/FileChannel/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java学习总结/src/main/java/IO和NIO/NIO/NIODemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java学习总结/src/main/java/IO和NIO/NIO/Reactor/BIOClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java学习总结/src/main/java/IO和NIO/NIO/Reactor/BIOServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java学习总结/src/main/java/IO和NIO/NIO/redis/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java学习总结/src/main/java/IO和NIO/NIO/socket/NIOClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java学习总结/src/main/java/IO和NIO/NIO/socket/NIOServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java学习总结/src/main/java/Java多线程/AQS/Lock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java学习总结/src/main/java/Java多线程/AQS/MiniReentrantLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java学习总结/src/main/java/Java多线程/高频面试点/CAS/CasABA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java学习总结/src/main/java/Java多线程/高频面试点/CAS/CasABASolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java学习总结/src/main/java/Java多线程/高频面试点/CountDownLatch/CountDownLatchDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java学习总结/src/main/java/Java多线程/高频面试点/CountDownLatch/CountDownLatchDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java学习总结/src/main/java/Java多线程/高频面试点/TestLockSupport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java学习总结/src/main/java/Java多线程/高频面试点/ThreadLocal/ThreadId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java学习总结/src/main/java/Java多线程/高频面试点/blockingqueue/ArrayBlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java学习总结/src/main/java/Java多线程/高频面试点/blockingqueue/BlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java学习总结/src/main/java/Java虚拟机/类加载器/CustomizeClassLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java学习总结/src/main/java/Java虚拟机/类加载器/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java学习总结/src/main/java/Java虚拟机/类加载器/DiffClassLoaderLoadingPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java学习总结/src/main/java/Java虚拟机/类加载器/spi/ExcelParse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java学习总结/src/main/java/Java虚拟机/类加载器/spi/IParseDoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java学习总结/src/main/java/Java虚拟机/类加载器/spi/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java学习总结/src/main/java/Java虚拟机/类加载器/spi/WordParse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java学习总结/src/main/resources/META-INF/services/Java虚拟机.类加载器.spi.IParseDoc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/framework/src/main/java/Test/Spring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/leetcode/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/leetcode/数据结构/alibaba/Q1_Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/leetcode/数据结构/alibaba/Q1_Singleton02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/leetcode/数据结构/alibaba/Q2_Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/leetcode/数据结构/alibaba/Q3_LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/leetcode/数据结构/alibaba/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/leetcode/数据结构/alibaba/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/leetcode/数据结构/字符串/BFPRT/BFPRT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/leetcode/数据结构/字符串/BFPRT/topN/TopNByHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/leetcode/数据结构/字符串/KMP/KMP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/leetcode/数据结构/字符串/KMP/KMP01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/leetcode/数据结构/字符串/KMP/KMP02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/leetcode/数据结构/字符串/KMP/TestKMP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/leetcode/数据结构/字符串/MANACHER/Manacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/leetcode/数据结构/字符串/MANACHER/Manacher03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/leetcode/数据结构/字符串/MANACHER/ManacherAth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/leetcode/数据结构/字符串/Rabin_Karp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/leetcode/数据结构/字符串/Test_Rabin_Karp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/leetcode/数据结构/字符串/同源异构体.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/leetcode/数据结构/数组/寻找两个有序数组的中位数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/leetcode/数据结构/树/SerializeAndReconstructTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/leetcode/电话号码组合.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/leetcode/算法思想/动态规划/生成有效括号.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/leetcode/算法思想/单调栈/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/leetcode/算法思想/双指针/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/leetcode/算法思想/双指针/四数之和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/leetcode/算法思想/窗口问题/AllLessNumSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/leetcode/算法思想/窗口问题/SlidingWindowMaxArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/Tenxun/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/Tenxun/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/Tenxun/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/Tenxun/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/jingdong/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/jingdong/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/秋招/pdd/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/秋招/pdd/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/秋招/pdd/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/秋招/tx/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/秋招/京东/ArrayToQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/秋招/京东/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/秋招/京东/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/秋招/京东/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/秋招/京东/QueueToStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/秋招/京东/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/秋招/字节/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/秋招/字节/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/秋招/字节/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/秋招/字节/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/秋招/网易/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/秋招/网易/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/秋招/网易/Maine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/秋招/网易/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/秋招/美团/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/秋招/美团/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/左神算法/ArrayStackQueue/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/左神算法/ArrayStackQueue/ArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/左神算法/ArrayStackQueue/SpecialStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/左神算法/ArrayStackQueue/TwoQueueStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/左神算法/ArrayStackQueue/TwoStackQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/左神算法/ArrayStackQueue/maxGap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/左神算法/TestComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/左神算法/print/Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/左神算法/哈希/RandomPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/左神算法/树/RecursiveTraversalBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/左神算法/树/SerializeAndReconstructTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/左神算法/树/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/左神算法/树/Traverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/左神算法/树/TreeMaxWidth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/左神算法/树/一棵树是否是某种特殊的树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/左神算法/树/完全二叉树的节点个数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/左神算法/树/找后继节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/左神算法/树/根据后续遍历重建树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/左神算法/贪心算法/BestArrange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/左神算法/贪心算法/IPO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/左神算法/贪心算法/Less_Money.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/左神算法/贪心算法/Summary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/左神算法/递归和DP/printAllSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/左神算法/递归和DP/兑换钱.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/左神算法/链表/listPartition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/排序与查找/sort/bubblesort/TestConstructorRef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/排序与查找/sort/quicksort/荷兰国旗问题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/每日练习/八月三十/Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/每日练习/八月三十/KMP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/每日练习/八月三十一/Leetcode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/test/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/src/test/java/bio/BioServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/ArrayStackQueue/ArrayQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/ArrayStackQueue/ArrayStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/ArrayStackQueue/SpecialStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/ArrayStackQueue/TwoQueueStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/ArrayStackQueue/TwoStackQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/ArrayStackQueue/maxGap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/TestComparator$User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/TestComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/print/Print.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/哈希/RandomPool$Pool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/哈希/RandomPool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/树/RecursiveTraversalBT$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/树/RecursiveTraversalBT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/树/SerializeAndReconstructTree$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/树/SerializeAndReconstructTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/树/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/树/Traverse$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/树/Traverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/树/TreeMaxWidth$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/树/TreeMaxWidth.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/树/一棵树是否是某种特殊的树$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/树/一棵树是否是某种特殊的树$ReturnData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/树/一棵树是否是某种特殊的树.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/树/完全二叉树的节点个数$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/树/完全二叉树的节点个数.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/树/找后继节点$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/树/找后继节点.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/树/根据后续遍历重建树$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/树/根据后续遍历重建树.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/贪心算法/BestArrange$Program.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/贪心算法/BestArrange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/贪心算法/IPO$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/贪心算法/IPO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/贪心算法/Less_Money.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/贪心算法/Summary$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/贪心算法/Summary$QueueByArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/贪心算法/Summary$QueueByStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/贪心算法/Summary$SpecialStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/贪心算法/Summary$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/贪心算法/Summary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/递归和DP/printAllSub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/递归和DP/兑换钱.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/链表/listPartition$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/左神算法/链表/listPartition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_18.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_18.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayList的底层实现/ArrayList的底层实现.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayList的底层实现/src/MyCollection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayList的底层实现/src/MyCollection2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayList的底层实现/src/MyCollection3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO/IO.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO/abc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO/spy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO/src/aaa.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO/src/com/sort/io/DirCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO/src/com/sort/io/DirDemo01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO/src/com/sort/io/DirDemo02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO/src/com/sort/io/DirDemo03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO/src/com/sort/io/DirDemo04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO/src/com/sort/io/FileDemo01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO/src/com/sort/io/FileDemo02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO/src/com/sort/io/IOstudy_02/CopyFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO/src/com/sort/io/IOstudy_02/Excerise01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO/src/com/sort/io/IOstudy_02/IOTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO/src/com/sort/io/IOstudy_02/IOTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO/src/com/sort/io/IOstudy_02/IOTest03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO/src/com/sort/io/IOstudy_02/IOTest04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO/src/com/sort/io/IOstudy_02/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO/src/com/sort/io/IOstudy_02/Test02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO/src/com/sort/io/IOstudy_02/Test03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO/src/com/sort/io/IOstudy_02/TestOutputStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO/src/com/sort/io/IOstudy_02/TestRead.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO/src/com/sort/io/PathDemo01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO/src/com/sort/io/download.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO/src/com/sort/io/encodeANDdecode/ContentDecode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO/src/com/sort/io/encodeANDdecode/ContentEncode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO/src/spy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA虚拟机/JAVA虚拟机.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA虚拟机/src/JVM/HeapOver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA虚拟机/src/JVM/MyProject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA虚拟机/src/JVM/OOM01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA虚拟机/src/JVM/对象的自我拯救.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA虚拟机/src/JVM/引用计数法的缺陷.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA虚拟机/src/JVM/测试运行时常量池.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA虚拟机/src/com/sort/gc/EscapeDeadFinalize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA虚拟机/src/com/sort/jmm/ClassLoaderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA虚拟机/src/com/sort/jmm/ClassLoaderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA虚拟机/src/com/sort/jmm/StackOverFlowErrorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA虚拟机/src/com/sort/jmm/StackOverFlowErrorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA虚拟机/src/com/sort/jmm/TestGetClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA虚拟机/src/com/sort/jmm/TestGetClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA虚拟机/src/com/sort/jmm/ThreePropertiesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA虚拟机/src/com/sort/jmm/ThreePropertiesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA虚拟机/src/com/sort/jmm/参数调优.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA虚拟机/src/com/sort/jmm/参数调优.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaWeb/JavaWeb.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaWeb/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/java/com/sort/cookie/HttpCookie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/java/com/sort/cookie/HttpCookie02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/java/com/sort/session/HttpSession.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/java/com/sort/session/HttpSession02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaWeb/target/classes/META-INF/JavaWeb.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaWeb/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaWeb/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java基础/Java基础.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java基础/code2020.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java基础/src/com/sort/Java的三大特性/Encapsulation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java基础/src/com/sort/常用类/Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java学习总结/Java学习总结.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java学习总结/Java学习总结.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java学习总结/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java学习总结/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java学习总结/src/main/java/Java多线程/多线程基础/三个工具类/CountDownLatchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java学习总结/src/main/java/Java多线程/多线程基础/三个工具类/CountDownLatchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java学习总结/src/main/java/Java多线程/高频面试点/volatile关键字/IntTranIntegr.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java学习总结/src/main/java/Java多线程/高频面试点/volatile关键字/IntTranIntegr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java学习总结/target/classes/Java多线程/多线程基础/三个工具类/CountDownLatchTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Java学习总结/target/classes/Java多线程/多线程基础/三个工具类/CountDownLatchTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java学习总结/target/classes/Java多线程/高频面试点/CAS/.idea/CAS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java学习总结/target/classes/Java多线程/高频面试点/CAS/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java学习总结/target/classes/Java多线程/高频面试点/CAS/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java学习总结/target/classes/Java多线程/高频面试点/CAS/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java学习总结/target/classes/Java多线程/高频面试点/CAS/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java学习总结/target/classes/Java多线程/高频面试点/volatile关键字/IntTranIntegr.class" beforeDir="false" afterPath="$PROJECT_DIR$/Java学习总结/target/classes/Java多线程/高频面试点/volatile关键字/IntTranIntegr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring源码/Spring源码.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring源码/src/com/sort/ioc/MyAnnotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/src/others/PrintMulitiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/src/others/PrintMulitiplicationTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/afafadsf/afafadsf.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/afafadsf/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework/framework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/framework/framework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/framework/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaWeb_war_exploded/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaWeb_war_exploded/WEB-INF/classes/META-INF/JavaWeb.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaWeb_war_exploded/WEB-INF/classes/com/codepig/cookie/HttpCookie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaWeb_war_exploded/WEB-INF/classes/com/codepig/cookie/HttpCookie02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaWeb_war_exploded/WEB-INF/classes/com/codepig/session/HttpSession.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaWeb_war_exploded/WEB-INF/classes/com/codepig/session/HttpSession02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaWeb_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaWeb_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/META-INF/Test.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/ilove/exception/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/ilove/exception/Main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/ilove/exception/Main3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/ilove/exception/Main4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/ilove/exception/MyComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/ilove/exception/MyComparator02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/ilove/exception/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/ilove/exception/SubClassException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/ilove/exception/TestHashCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/ilove/exception/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/match/mathclass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/others/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/others/Main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/others/Main3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/others/PrintMulitiplicationTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/others/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/others/SavaTableData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/others/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/others/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/others/Test02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/others/TestBit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/others/TestCollectionClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/others/TestFinalAndStatic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/others/TestIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/others/TestList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/others/TestStaticVariable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/others/利用反射越过泛型检测.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/others/最小位数和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/位运算/TestNoSignal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/常用类/Arrays/TestArrayCopy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/常用类/System/ArrayCopy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/常用类/System/Exit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/图/src/SortingOfDNA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/图/src/TestSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/图/src/demo01/Graph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/图/src/demo01/TestGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/图/src/demo01/Vertex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/图/src/demo02/Graph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/图/src/leetcode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/图/图.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/out/JUC/practice2020311/JVM/aaa.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/out/META-INF/多线程.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/out/com/sort/codepig3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/JUC/ProducerConsumerModel/Instance001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/JUC/ProducerConsumerModel/Instance01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/JUC/ProducerConsumerModel/NewProducerConsumerModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/JUC/ProducerConsumerModel/OldProducerConsumerModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/JUC/ProducerConsumerModel/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/JUC/practice2020311/ThreadPoolExecution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/JUC/practice2020311/生产者消费者01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/JUC高级/Lock/ReadWriteLockDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/JUC高级/ThreeUtils/CountDownLatchTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/JUC高级/ThreeUtils/CyclicBarrierTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/JUC高级/ThreeUtils/SemaphoreStandard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/JUC高级/ThreeUtils/SemaphoreTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/JUC高级/UnSafeThread/ListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/JUC高级/UnSafeThread/ListTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/JUC高级/example/BetterSaleTicket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/JUC高级/example/SaleTicket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/com/sort/adavanced/DoubleCheckedLocking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/com/sort/adavanced/HappenBefore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/com/sort/adavanced/TimerTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/com/sort/adavanced/VolatileTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/com/sort/codepig3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/com/sort/cooperation/CoTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/com/sort/cooperation/CoTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/com/sort/daemon/DaemonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/com/sort/establish/collable/MyCallable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/com/sort/establish/practice/WebDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/com/sort/establish/torunnable/Demo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/com/sort/establish/torunnable/Demo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/com/sort/establish/torunnable/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/com/sort/establish/tothread/Demo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/com/sort/establish/tothread/Demo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/com/sort/establish/tothread/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/com/sort/establish/tothread/Test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/com/sort/example/Racer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/com/sort/example/Web12306.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/com/sort/lambda表达式/Lambda再学习.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/com/sort/lambda表达式/推导.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/com/sort/priority/PriorityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/com/sort/synchronize/HappyInstance/HappyCinema.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/com/sort/synchronize/HappyInstance/HappyCinema02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/com/sort/synchronize/SynBlock01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/com/sort/synchronize/SynTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/com/sort/synchronize/ThreeSafeExamples/SynBlock01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/com/sort/synchronize/ThreeSafeExamples/SynBlock02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/com/sort/synchronize/ThreeSafeExamples/SynBlock03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/com/sort/synchronize/ThreeUnsafeExamples/UnSafeTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/com/sort/synchronize/ThreeUnsafeExamples/UnSafeTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/com/sort/synchronize/ThreeUnsafeExamples/UnSafeTest03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/src/com/sort/synchronize/deadlock/DeadLock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/多线程.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/out/production/排序算法/com/codepig/bubblesort/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/out/production/排序算法/com/codepig/bubblesort/BubbleSort2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/out/production/排序算法/com/codepig/insertsort/InsertSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/out/production/排序算法/com/codepig/insertsort/InsertSort2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/out/production/排序算法/com/codepig/mergesort/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/out/production/排序算法/com/codepig/mergesort/MergeSort2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/out/production/排序算法/com/codepig/quicksort/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/out/production/排序算法/com/codepig/quicksort/QuickSort1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/out/production/排序算法/com/codepig/selectsort/SelectSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/out/production/排序算法/com/codepig/selectsort/SelectSort2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/out/production/排序算法/com/codepig/shellsort/ShellSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/out/production/排序算法/com/codepig/shellsort/ShellSort1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/src/com/search/BinartSearch/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/src/com/sort/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/排序与查找/src/com/sort/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/src/com/sort/bubblesort/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/src/com/sort/bubblesort/BubbleSort2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/src/com/sort/bubblesort/BubbleSort3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/src/com/sort/bubblesort/BubbleSort4.java" beforeDir="false" afterPath="$PROJECT_DIR$/排序与查找/src/com/sort/bubblesort/BubbleSort4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/src/com/sort/bubblesort/BubbleSortDesc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/src/com/sort/heapsort/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/排序与查找/src/com/sort/heapsort/HeapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/src/com/sort/heapsort/HeapSort2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/src/com/sort/heapsort/HeapSort3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/src/com/sort/insertsort/InsertSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/src/com/sort/insertsort/InsertSort2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/src/com/sort/insertsort/InsertSort3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/src/com/sort/insertsort/InsertSort4.java" beforeDir="false" afterPath="$PROJECT_DIR$/排序与查找/src/com/sort/insertsort/InsertSort4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/src/com/sort/mergesort/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/src/com/sort/mergesort/MergeSort2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/src/com/sort/mergesort/MergeSort3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/src/com/sort/mergesort/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/src/com/sort/quicksort/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/src/com/sort/quicksort/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/src/com/sort/quicksort/QuickSort1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/src/com/sort/quicksort/QuickSort3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/src/com/sort/selectsort/SelectSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/src/com/sort/selectsort/SelectSort2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/src/com/sort/selectsort/SelectSort3.java" beforeDir="false" afterPath="$PROJECT_DIR$/排序与查找/src/com/sort/selectsort/SelectSort3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/src/com/sort/shellsort/ShellSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/src/com/sort/shellsort/ShellSort1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/src/com/sort/shellsort/ShellSort2.java" beforeDir="false" afterPath="$PROJECT_DIR$/排序与查找/src/com/sort/shellsort/ShellSort2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序与查找/排序与查找.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构与算法/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/src/main/java/leetcode/数据结构/字符串/StrStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/leetcode/数据结构/字符串/sunny/StrStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/华为/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/华为/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/src/main/java/排序与查找/sort/bubblesort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/排序与查找/sort/bubblesort/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/src/main/java/排序与查找/sort/heapsort/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构与算法/src/main/java/排序与查找/sort/heapsort/HeapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/target/classes/META-INF/数据结构与算法.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/META-INF/数据结构与算法.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/target/classes/leetcode/数据结构/字符串/StrStr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/target/classes/实习笔试题/华为/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/实习笔试题/华为/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/target/classes/排序与查找/sort/bubblesort/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/排序与查找/sort/bubblesort/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/target/classes/排序与查找/sort/heapsort/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构与算法/target/classes/排序与查找/sort/heapsort/HeapSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/target/classes/算法课程/二叉树和递归/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/target/classes/算法课程/二叉树和递归/求二叉树的最高深度.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/target/classes/算法课程/动态规划/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/target/classes/算法课程/动态规划/斐波那契数列的实现.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/target/classes/算法课程/动态规划/爬楼梯.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/target/classes/算法课程/数据规模的概念.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/target/classes/算法课程/数组中的问题最常见/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/target/classes/算法课程/数组中的问题最常见/删除数组中指定元素.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/target/classes/算法课程/数组中的问题最常见/去重数组并最多保留两个.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/target/classes/算法课程/数组中的问题最常见/对撞指针/判断一个字符串是否是回文串.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/target/classes/算法课程/数组中的问题最常见/对撞指针/容纳最多的水.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/target/classes/算法课程/数组中的问题最常见/对撞指针/找出数组中两个元素和为指定元素.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/target/classes/算法课程/数组中的问题最常见/对撞指针/翻转字符串中的元音字符.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/target/classes/算法课程/数组中的问题最常见/对数组中的元素去重.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/target/classes/算法课程/数组中的问题最常见/将一个数组归并到另一个数组中.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/target/classes/算法课程/数组中的问题最常见/数组排序.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/target/classes/算法课程/数组中的问题最常见/整数序列中寻找第k大的元素.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/target/classes/算法课程/数组中的问题最常见/滑动窗口/所有的字母异位串.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/target/classes/算法课程/数组中的问题最常见/滑动窗口/最短连续子数组.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/target/classes/算法课程/数组中的问题最常见/滑动窗口/没有重复字母的最长子串.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/target/classes/算法课程/数组中的问题最常见/移动数组中的零元素.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/target/classes/算法课程/时间复杂度分析/常见的时间复杂度以及算例.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/target/classes/算法课程/贪心算法/给孩子分配饼干.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法/数据结构与算法.iml" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构与算法/数据结构与算法.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/.idea/webServers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/Spring源码/Project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/IO/com/codepig/io/DirDemo01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/IO/com/codepig/io/DirDemo02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/IO/com/codepig/io/DirDemo03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/IO/com/codepig/io/FileDemo01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/IO/com/codepig/io/FileDemo02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/IO/com/codepig/io/PathDemo01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/IO/com/codepig/io/download.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/JAVA虚拟机/com/codepig/gc/EscapeDeadFinalize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/Java基础/com/codepig/Java的三大特性/Encapsulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/Java基础/com/codepig/Java的三大特性/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/Java基础/com/codepig/常用类/Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/Test/com/ilove/exception/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/Test/com/ilove/exception/SubClassException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/Test/others/PrintMulitiplicationTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/Test/others/SavaTableData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/Test/others/Test02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/Test/others/TestStaticVariable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/Test/others/利用反射越过泛型检测.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/Test/位运算/TestNoSignal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/Test/常用类/System/ArrayCopy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/Test/常用类/System/Exit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/META-INF/多线程.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/adavanced/HappenBefore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/adavanced/MyTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/adavanced/TimerTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/adavanced/VolatileTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/cooperation/CoTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/cooperation/CoTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/cooperation/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/cooperation/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/cooperation/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/cooperation/Steamedbun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/cooperation/SynContainer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/cooperation/Tv.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/cooperation/Watcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/daemon/DaemonTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/daemon/God.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/daemon/You.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/establish/collable/MyCallable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/establish/practice/WebDownloader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/establish/torunnable/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/establish/torunnable/Demo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/establish/torunnable/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/establish/tothread/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/establish/tothread/Demo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/establish/tothread/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/establish/tothread/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/example/Racer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/example/Web12306.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/lambda表达式/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/lambda表达式/推导.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/priority/PriorityTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/synchronize/HappyInstance/Cinema.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/synchronize/HappyInstance/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/synchronize/HappyInstance/HappyCinema.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/synchronize/SafeWeb12306.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/synchronize/SynBlock01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/synchronize/SynDrawing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/synchronize/SynTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/synchronize/ThreeSafeExamples/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/synchronize/ThreeSafeExamples/SynBlock01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/synchronize/ThreeSafeExamples/SynBlock02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/synchronize/ThreeSafeExamples/SynBlock03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/synchronize/ThreeSafeExamples/SynDrawingMoney.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/synchronize/ThreeSafeExamples/SynWeb123.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/synchronize/ThreeUnsafeExamples/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/synchronize/ThreeUnsafeExamples/Drawing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/synchronize/ThreeUnsafeExamples/UnSafeTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/synchronize/ThreeUnsafeExamples/UnSafeTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/synchronize/ThreeUnsafeExamples/UnSafeTest03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/synchronize/ThreeUnsafeExamples/UnSafeWeb12306.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/synchronize/deadlock/DeadLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/synchronize/deadlock/LipStick.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/synchronize/deadlock/Makeup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/多线程/com/codepig/synchronize/deadlock/Mirror.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/排序算法/com/codepig/bubblesort/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/排序算法/com/codepig/bubblesort/BubbleSort2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/排序算法/com/codepig/bubblesort/BubbleSort3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/排序算法/com/codepig/bubblesort/BubbleSortDesc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/排序算法/com/codepig/insertsort/InsertSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/排序算法/com/codepig/insertsort/InsertSort2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/排序算法/com/codepig/insertsort/InsertSort3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/排序算法/com/codepig/mergesort/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/排序算法/com/codepig/mergesort/MergeSort2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/排序算法/com/codepig/mergesort/MergeSort3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/排序算法/com/codepig/quicksort/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/排序算法/com/codepig/quicksort/QuickSort1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/排序算法/com/codepig/selectsort/SelectSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/排序算法/com/codepig/selectsort/SelectSort2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/排序算法/com/codepig/shellsort/ShellSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/排序算法/com/codepig/shellsort/ShellSort1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/猪/com/codepig/剑指offer/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/猪/com/codepig/剑指offer/三丶数组中重复的数字.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/猪/com/codepig/剑指offer/五丶替换字符串中的空格.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/猪/com/codepig/剑指offer/六丶从尾到头打印链表.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/猪/com/codepig/剑指offer/十丶斐波那契数列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/猪/com/codepig/剑指offer/四丶二维数组中的查找.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/猪/递归/计算0到n的和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/线性结构/com/codepig/linkedlist/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/线性结构/com/codepig/linkedlist/TestJava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/线性结构/com/codepig/linkedlist/TestNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/线性结构/com/codepig/looplinkedlist/LoopNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/out/production/线性结构/com/codepig/looplinkedlist/TestNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/src/com/Mian.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/src/com/teacher/binarttree/BinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/src/com/teacher/binarttree/TestBinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/src/com/teacher/binarttree/TreeNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/树.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法练习/src/com/sort/leetcode/数据结构/位运算/一丶计算两个数二进制位有多少位不同.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法练习/src/com/sort/leetcode/数据结构/位运算/三丶找出数组中缺失的那个数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法练习/src/com/sort/leetcode/数据结构/位运算/二丶数组中唯一一个不重复的元素.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法练习/src/com/sort/leetcode/数据结构/位运算/五丶只出现一次的数字.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法练习/src/com/sort/leetcode/数据结构/位运算/四丶判断一个数是不是2的n次方.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法练习/src/com/sort/leetcode/数据结构/数组/稀疏数组/SparseArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法练习/src/com/sort/leetcode/数据结构/数组/稀疏数组/Test01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法练习/src/com/sort/leetcode/数据结构/数组/自定义ArrayList/ArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法练习/src/com/sort/leetcode/数据结构/链表/自定义链表/LinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法练习/src/com/sort/leetcode/数据结构/链表/自定义链表/Test01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法练习/src/com/sort/leetcode/算法思想/动态规划/斐波那契数列/强盗抢劫.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法练习/src/com/sort/leetcode/算法思想/动态规划/斐波那契数列/打家劫舍.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法练习/src/com/sort/leetcode/算法思想/动态规划/斐波那契数列/爬楼梯.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法练习/src/com/sort/leetcode/算法思想/动态规划/斐波那契数列/环形街区抢劫.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法练习/src/com/sort/leetcode/算法思想/双指针/NumCharDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法练习/src/com/sort/leetcode/算法思想/双指针/VolatileThreadDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法练习/src/com/sort/leetcode/算法思想/双指针/判断一个数是否是两整数的平方和.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法练习/src/com/sort/leetcode/算法思想/双指针/反转字符串中的元音.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法练习/src/com/sort/leetcode/算法思想/双指针/有序数组的和等于目标值.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法练习/src/com/sort/leetcode/算法思想/排序/lll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法练习/src/com/sort/leetcode/算法思想/贪婪算法/一丶分配饼干满足胃口.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法练习/src/com/sort/剑指offer/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法练习/src/com/sort/剑指offer/三丶数组中重复的数字.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法练习/src/com/sort/剑指offer/九丶用两个栈实现队列.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法练习/src/com/sort/剑指offer/五丶替换字符串中的空格.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法练习/src/com/sort/剑指offer/六丶从尾到头打印链表.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法练习/src/com/sort/剑指offer/十丶斐波那契数列.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法练习/src/com/sort/剑指offer/十四丶剪绳子.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法练习/src/com/sort/剑指offer/四丶二维数组中的查找.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法练习/算法练习.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/线性结构/src/com/sort/linkedlist/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/线性结构/src/com/sort/linkedlist/TestJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/线性结构/src/com/sort/linkedlist/TestNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/线性结构/src/com/sort/looplinkedlist/LoopNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/线性结构/src/com/sort/looplinkedlist/TestNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/线性结构/src/java/util/TestQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/线性结构/线性结构.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/com/sort/codepig2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/com/sort/代理模式/代理模式.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/com/sort/代理模式/实现一/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/com/sort/代理模式/实现一/Printable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/com/sort/代理模式/实现一/Printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/com/sort/代理模式/实现一/ProxyPrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/com/sort/原型模式/Sheep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/com/sort/原型模式/Test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/com/sort/工厂方法模式/Apple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/com/sort/工厂方法模式/AppleFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/com/sort/工厂方法模式/Fruit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/com/sort/工厂方法模式/FruitFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/com/sort/工厂方法模式/Pear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/com/sort/工厂方法模式/PearFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/com/sort/工厂方法模式/TestFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/com/sort/抽象工厂模式/Cpu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/com/sort/抽象工厂模式/HongMiFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/com/sort/抽象工厂模式/PhoneFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/com/sort/抽象工厂模式/Screen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/com/sort/抽象工厂模式/XiaoMiFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/com/sort/简单工厂模式/Apple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/com/sort/简单工厂模式/Fruit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/com/sort/简单工厂模式/FruitFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/com/sort/简单工厂模式/Pear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/com/sort/简单工厂模式/TestFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/com/sort/装饰器设计模式/DecorateTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/com/sort/装饰器设计模式/Fatter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计模式/设计模式.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试知识点/src/HashMap源码分析/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试知识点/src/HashMap源码分析/Goods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试知识点/src/HashMap源码分析/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试知识点/src/HashMap源码分析/Test01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试知识点/src/HashMap源码分析/Test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试知识点/src/HashMap源码分析/TestMDUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试知识点/src/HashMap源码分析/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试知识点/src/bishi/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试知识点/src/笔试题/ScannerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试知识点/src/笔试题/StringTokenizedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试知识点/src/笔试题/TestFinal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试知识点/src/算法课程/动态规划/ProducerConsumerDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试知识点/src/算法课程/动态规划/斐波那契数列的实现.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试知识点/src/算法课程/动态规划/爬楼梯.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试知识点/src/算法课程/数据规模的概念.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试知识点/src/算法课程/数组中的问题最常见/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试知识点/src/算法课程/数组中的问题最常见/删除数组中指定元素.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试知识点/src/算法课程/数组中的问题最常见/去重数组并最多保留两个.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试知识点/src/算法课程/数组中的问题最常见/对撞指针/判断一个字符串是否是回文串.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试知识点/src/算法课程/数组中的问题最常见/对撞指针/容纳最多的水.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试知识点/src/算法课程/数组中的问题最常见/对撞指针/找出数组中两个元素和为指定元素.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试知识点/src/算法课程/数组中的问题最常见/对撞指针/翻转字符串中的元音字符.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试知识点/src/算法课程/数组中的问题最常见/对数组中的元素去重.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试知识点/src/算法课程/数组中的问题最常见/将一个数组归并到另一个数组中.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试知识点/src/算法课程/数组中的问题最常见/数组排序.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试知识点/src/算法课程/数组中的问题最常见/整数序列中寻找第k大的元素.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试知识点/src/算法课程/数组中的问题最常见/滑动窗口/最短连续子数组.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试知识点/src/算法课程/数组中的问题最常见/滑动窗口/没有重复字母的最长子串.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试知识点/src/算法课程/数组中的问题最常见/移动数组中的零元素.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试知识点/src/算法课程/时间复杂度分析/常见的时间复杂度以及算例.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试知识点/面试知识点.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\JAVA\apache-maven-3.6.3\repo" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\JAVA\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1aLWF555IXsqDDkvAlgmIK8UXzZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="flex.debug.filter.swf.load.unload" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8 (2)" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/算法练习/src/com/codepig/leetcode/算法思想/动态规划/斐波那契数列" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/数据结构与算法/src/main/java/leetcode/数据结构/alibaba" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.1532567" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="实习笔试题.秋招.字节" />
+      <recent name="Java多线程.高频面试点.CAS" />
+      <recent name="Java多线程.多线程基础" />
+      <recent name="设计模式.单例设计模式" />
+      <recent name="Java多线程.高频面试点.多线程下安全的集合" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JAVA\Idea\Project\数据结构与算法\src\main\java\leetcode\数据结构\alibaba" />
+      <recent name="D:\JAVA\Idea\Project\Java学习总结" />
+      <recent name="D:\JAVA\Idea\Project\Java学习总结\src\main\java\Java多线程\线程池" />
+      <recent name="D:\JAVA\Idea\Project\Java学习总结\src\main\java\Java集合类\concurrenthashashmap" />
+      <recent name="D:\JAVA\Idea\Project\Java学习总结\src\main\java\Java多线程\高频面试点\CAS\teacher" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.KMP (1)">
+    <configuration name="Heap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日练习.八月三十.Heap" />
+      <module name="数据结构与算法" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KMP (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日练习.八月三十.KMP" />
+      <module name="数据结构与算法" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KMP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.数据结构.字符串.KMP.KMP" />
+      <module name="数据结构与算法" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="实习笔试题.秋招.美团.Main" />
+      <module name="数据结构与算法" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="实习笔试题.秋招.美团.Main2" />
+      <module name="数据结构与算法" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.KMP" />
+      <item itemvalue="Application.Main2" />
+      <item itemvalue="Application.Heap" />
+      <item itemvalue="Application.KMP (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KMP (1)" />
+        <item itemvalue="Application.Heap" />
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.KMP" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9b6090b-628c-4810-ba2b-9f306fc4c17a" name="Default Changelist" comment="" />
+      <created>1576022241827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576022241827</updated>
+      <workItem from="1576022251991" duration="13836000" />
+      <workItem from="1576540928667" duration="706000" />
+      <workItem from="1578293897091" duration="3298000" />
+      <workItem from="1578548884707" duration="21636000" />
+      <workItem from="1579259034347" duration="1905000" />
+      <workItem from="1579338553033" duration="2149000" />
+      <workItem from="1579436860515" duration="670000" />
+      <workItem from="1579518980022" duration="1153000" />
+      <workItem from="1580386802962" duration="5043000" />
+      <workItem from="1580434329133" duration="8623000" />
+      <workItem from="1581133933927" duration="1337000" />
+      <workItem from="1581243695584" duration="937000" />
+      <workItem from="1581989990461" duration="1323000" />
+      <workItem from="1582266364675" duration="605000" />
+      <workItem from="1582532873943" duration="708000" />
+      <workItem from="1583150843595" duration="1321000" />
+      <workItem from="1583212181584" duration="791000" />
+      <workItem from="1583373375493" duration="5233000" />
+      <workItem from="1583456407769" duration="10635000" />
+      <workItem from="1583550890864" duration="47351000" />
+      <workItem from="1583883564199" duration="78000" />
+      <workItem from="1583883930542" duration="35117000" />
+      <workItem from="1584059091616" duration="6848000" />
+      <workItem from="1584079685597" duration="2281000" />
+      <workItem from="1584143250613" duration="12706000" />
+      <workItem from="1584233365532" duration="22617000" />
+      <workItem from="1584324910561" duration="3501000" />
+      <workItem from="1584336440589" duration="630000" />
+      <workItem from="1584406501366" duration="6592000" />
+      <workItem from="1584492736151" duration="42554000" />
+      <workItem from="1584752488067" duration="6667000" />
+      <workItem from="1584789694012" duration="14000" />
+      <workItem from="1584789713070" duration="66000" />
+      <workItem from="1584789810930" duration="38293000" />
+      <workItem from="1584936309114" duration="391000" />
+      <workItem from="1584936982473" duration="3396000" />
+      <workItem from="1584963539368" duration="6494000" />
+      <workItem from="1585045608063" duration="6435000" />
+      <workItem from="1585133146633" duration="2969000" />
+      <workItem from="1585206410357" duration="133000" />
+      <workItem from="1585206549354" duration="54000" />
+      <workItem from="1585206639253" duration="4996000" />
+      <workItem from="1585218579245" duration="14398000" />
+      <workItem from="1585320115566" duration="987000" />
+      <workItem from="1585354301054" duration="4431000" />
+      <workItem from="1585391268904" duration="3995000" />
+      <workItem from="1585444000023" duration="5581000" />
+      <workItem from="1585479303261" duration="6743000" />
+      <workItem from="1585535432967" duration="4066000" />
+      <workItem from="1585632867288" duration="3781000" />
+      <workItem from="1585725320538" duration="1108000" />
+      <workItem from="1585738033625" duration="7603000" />
+      <workItem from="1585787628202" duration="4181000" />
+      <workItem from="1585838807309" duration="3552000" />
+      <workItem from="1585895486851" duration="806000" />
+      <workItem from="1585896324564" duration="95000" />
+      <workItem from="1585965748613" duration="886000" />
+      <workItem from="1586003334094" duration="3741000" />
+      <workItem from="1586255229369" duration="9002000" />
+      <workItem from="1586515249669" duration="15136000" />
+      <workItem from="1586570359954" duration="3638000" />
+      <workItem from="1586578945756" duration="974000" />
+      <workItem from="1586580342636" duration="516000" />
+      <workItem from="1586676928260" duration="19367000" />
+      <workItem from="1586756053154" duration="1348000" />
+      <workItem from="1586832298827" duration="5504000" />
+      <workItem from="1586921975289" duration="14462000" />
+      <workItem from="1587007477243" duration="6632000" />
+      <workItem from="1587040970507" duration="4414000" />
+      <workItem from="1587092598918" duration="4541000" />
+      <workItem from="1587131730007" duration="45480000" />
+      <workItem from="1587444882896" duration="6546000" />
+      <workItem from="1587540609923" duration="10030000" />
+      <workItem from="1587647226789" duration="1090000" />
+      <workItem from="1587693436518" duration="25102000" />
+      <workItem from="1587803298354" duration="10117000" />
+      <workItem from="1587870715759" duration="8522000" />
+      <workItem from="1587902145960" duration="31411000" />
+      <workItem from="1588041362251" duration="21970000" />
+      <workItem from="1588208160932" duration="12044000" />
+      <workItem from="1588305631577" duration="10164000" />
+      <workItem from="1588406319063" duration="29849000" />
+      <workItem from="1588591717588" duration="6729000" />
+      <workItem from="1588639118709" duration="10901000" />
+      <workItem from="1588723541018" duration="28933000" />
+      <workItem from="1588812926794" duration="14320000" />
+      <workItem from="1588897609183" duration="15048000" />
+      <workItem from="1589000299990" duration="5989000" />
+      <workItem from="1589072624013" duration="12943000" />
+      <workItem from="1589156843561" duration="11295000" />
+      <workItem from="1589241765086" duration="10167000" />
+      <workItem from="1589329643408" duration="5986000" />
+      <workItem from="1589462316628" duration="901000" />
+      <workItem from="1589518233207" duration="5412000" />
+      <workItem from="1589680051235" duration="727000" />
+      <workItem from="1589763678193" duration="5414000" />
+      <workItem from="1589848830766" duration="8511000" />
+      <workItem from="1590137766045" duration="2000000" />
+      <workItem from="1590198087427" duration="3712000" />
+      <workItem from="1590403144010" duration="1919000" />
+      <workItem from="1590484842924" duration="3988000" />
+      <workItem from="1590906561187" duration="1859000" />
+      <workItem from="1591618196833" duration="5200000" />
+      <workItem from="1592310993225" duration="13000" />
+      <workItem from="1594258121790" duration="877000" />
+      <workItem from="1594536674364" duration="4382000" />
+      <workItem from="1596364577516" duration="17800000" />
+      <workItem from="1597480318787" duration="4472000" />
+      <workItem from="1598067571797" duration="3117000" />
+      <workItem from="1598183966377" duration="2071000" />
+      <workItem from="1598526088395" duration="6263000" />
+      <workItem from="1598610569577" duration="5899000" />
+      <workItem from="1598669863058" duration="474000" />
+      <workItem from="1598676939556" duration="297000" />
+      <workItem from="1598688327680" duration="3408000" />
+      <workItem from="1598757866347" duration="747000" />
+      <workItem from="1598783611728" duration="7643000" />
+      <workItem from="1598795452103" duration="904000" />
+      <workItem from="1598797440472" duration="2255000" />
+      <workItem from="1598873902323" duration="3409000" />
+      <workItem from="1598929916759" duration="787000" />
+      <workItem from="1598935700565" duration="301000" />
+      <workItem from="1598936367443" duration="100000" />
+      <workItem from="1598937092994" duration="387000" />
+    </task>
+    <task id="LOCAL-00001" summary="算法练习 2020年1月6日 15:08:57">
+      <created>1578294541945</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578294541945</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="算法练习 2020年1月6日 15:08:57" />
+    <option name="LAST_COMMIT_MESSAGE" value="算法练习 2020年1月6日 15:08:57" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="127" y="0" key="#Project_Structure" timestamp="1598876543313">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="127" y="0" key="#Project_Structure/0.0.1549.831@0.0.1549.831" timestamp="1598876543313" />
+    <state x="533" y="55" key="#com.intellij.ide.util.MemberChooser" timestamp="1598876560121">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="533" y="55" key="#com.intellij.ide.util.MemberChooser/0.0.1549.831@0.0.1549.831" timestamp="1598876560121" />
+    <state x="506" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1591623239309">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="506" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1549.831@0.0.1549.831" timestamp="1591623239309" />
+    <state x="471" y="49" key="#xdebugger.evaluate" timestamp="1598877090276">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="471" y="49" key="#xdebugger.evaluate/0.0.1549.831@0.0.1549.831" timestamp="1598877090276" />
+    <state x="443" y="248" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1598799730362">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="443" y="248" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1549.831@0.0.1549.831" timestamp="1598799730362" />
+    <state width="1496" height="241" key="GridCell.Tab.0.bottom" timestamp="1598877439372">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1496" height="241" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1598877439372" />
+    <state width="1496" height="241" key="GridCell.Tab.0.center" timestamp="1598877439357">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1496" height="241" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1598877439357" />
+    <state width="1496" height="241" key="GridCell.Tab.0.left" timestamp="1598877439357">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1496" height="241" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1598877439357" />
+    <state width="1496" height="241" key="GridCell.Tab.0.right" timestamp="1598877439357">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1496" height="241" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1598877439357" />
+    <state width="1496" height="241" key="GridCell.Tab.1.bottom" timestamp="1598877270329">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1496" height="241" key="GridCell.Tab.1.bottom/0.0.1549.831@0.0.1549.831" timestamp="1598877270329" />
+    <state width="1496" height="241" key="GridCell.Tab.1.center" timestamp="1598877270329">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1496" height="241" key="GridCell.Tab.1.center/0.0.1549.831@0.0.1549.831" timestamp="1598877270329" />
+    <state width="1496" height="241" key="GridCell.Tab.1.left" timestamp="1598877270329">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1496" height="241" key="GridCell.Tab.1.left/0.0.1549.831@0.0.1549.831" timestamp="1598877270329" />
+    <state width="1496" height="241" key="GridCell.Tab.1.right" timestamp="1598877270329">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1496" height="241" key="GridCell.Tab.1.right/0.0.1549.831@0.0.1549.831" timestamp="1598877270329" />
+    <state x="127" y="0" key="SettingsEditor" timestamp="1598800101222">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="127" y="0" key="SettingsEditor/0.0.1549.831@0.0.1549.831" timestamp="1598800101222" />
+    <state x="664" y="83" width="741" height="655" key="StructurePopup" timestamp="1598876195967">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="664" y="83" width="741" height="655" key="StructurePopup/0.0.1549.831@0.0.1549.831" timestamp="1598876195967" />
+    <state width="623" height="515" key="SwitcherDM" timestamp="1598876768606">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="623" height="515" key="SwitcherDM/0.0.1549.831@0.0.1549.831" timestamp="1598876768606" />
+    <state x="19" y="-9" width="1175" height="831" key="find.popup" timestamp="1598876232202">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="19" y="-9" width="1175" height="831" key="find.popup/0.0.1549.831@0.0.1549.831" timestamp="1598876232202" />
+    <state x="353" y="0" width="840" height="829" key="search.everywhere.popup" timestamp="1598875972159">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="353" y="0" width="840" height="829" key="search.everywhere.popup/0.0.1549.831@0.0.1549.831" timestamp="1598875972159" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Java学习总结/src/main/java/Java基础语法/常用类/Solution.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/数据结构与算法/src/main/java/leetcode/数据结构/数组/寻找两个有序数组的中位数.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_221/jre/lib/rt.jar!/sun/misc/Launcher.class</url>
+          <line>43</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/数据结构与算法/src/main/java/左神算法/树/Solution.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/秋招/pdd/Main2.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/秋招/pdd/Main2.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/秋招/pdd/Main2.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/秋招/pdd/Main2.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/秋招/pdd/Main2.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/秋招/网易/Maine.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/秋招/美团/Main.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/秋招/京东/Main.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/数据结构与算法/src/main/java/实习笔试题/秋招/京东/Main.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/数据结构与算法/src/main/java/每日练习/八月三十/KMP.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/数据结构与算法/src/main/java/每日练习/八月三十/KMP.java</url>
+          <line>117</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="10" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>
